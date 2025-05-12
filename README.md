@@ -8,4 +8,4 @@ This project uses Natural Language Processing (NLP) to analyze customer reviews 
 - Evaluated model performance using accuracy metrics (e.g., F1-score)
 - Derived insights to drive strategic improvements
 
-View the full notebook: Customer_Reviews_Sentiment_Analysis.ipynb
+View the full notebook: [Customer_Reviews_Sentiment_Analysis.ipynb](https://github.com/RidhikaMadan/customer-reviews-sentiment-analysis/blob/main/Customer_Reviews_Sentiment_Analysis-2.ipynb)
